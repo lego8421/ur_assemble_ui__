@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ur_assemble_ui</name>
+  <version>0.1.0</version>
+  <description>
+     ur_assemble_ui
+  </description>
+  <license>BSD</license>
+  <maintainer email="lego8421@gmail.com">Ji-hun Kim</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>ur_control_msgs</depend>
+  <depend>qtbase5-dev</depend>
+  <depend>qt5-qmake</depend>
+  <depend>libqt5-core</depend>
+  <depend>libqt5-gui</depend>
+  <depend>cmake_modules</depend>
+</package>

@@ -1,0 +1,4 @@
+ <launch>
+   <node pkg="ur_controller" type="ur_controller"  name="ur_controller" args="192.168.0.3" output="screen"/>
+   <node pkg="ur_assemble_ui" type="ur_assemble_ui"  name="ur_assemble_ui" output="screen"/>
+ </launch>
